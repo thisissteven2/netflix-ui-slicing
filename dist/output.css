@@ -664,6 +664,11 @@ span {
   margin-right: 1rem;
 }
 
+.my-4 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
 .-mt-2 {
   margin-top: -0.5rem;
 }
@@ -729,6 +734,10 @@ span {
   height: 1.5rem;
 }
 
+.max-h-\[200px\] {
+  max-height: 200px;
+}
+
 .w-\[36px\] {
   width: 36px;
 }
@@ -780,6 +789,10 @@ span {
 
 .min-w-\[110px\] {
   min-width: 110px;
+}
+
+.max-w-sm {
+  max-width: 24rem;
 }
 
 .-translate-x-1\/2 {
@@ -1041,6 +1054,11 @@ span {
 .py-3 {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
+}
+
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .pb-4 {

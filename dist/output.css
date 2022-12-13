@@ -898,96 +898,12 @@ span {
   --tw-bg-opacity: 0.7;
 }
 
-.bg-\[url\(\'\/public\/images\/home\.jpg\'\)\] {
-  background-image: url('/public/images/home.jpg');
+.bg-\[url\(\'\.\.\/public\/images\/home\.jpg\'\)\] {
+  background-image: url('../public/images/home.jpg');
 }
 
 .bg-gradient-to-t {
   background-image: linear-gradient(to top, var(--tw-gradient-stops));
-}
-
-.bg-\[url\(\'\/public\/images\/moneyheist\.jpg\'\)\] {
-  background-image: url('/public/images/moneyheist.jpg');
-}
-
-.bg-\[url\(\'\/public\/images\/lookism\.jpg\'\)\] {
-  background-image: url('/public/images/lookism.jpg');
-}
-
-.bg-\[url\(\'\/public\/images\/squidgames\.jpg\'\)\] {
-  background-image: url('/public/images/squidgames.jpg');
-}
-
-.bg-\[url\(\'\/public\/images\/alice\.jpg\'\)\] {
-  background-image: url('/public/images/alice.jpg');
-}
-
-.bg-\[url\(\'\/public\/images\/troll\.jpg\'\)\] {
-  background-image: url('/public/images/troll.jpg');
-}
-
-.bg-\[url\(\'\/public\/images\/traintobusan\.jpg\'\)\] {
-  background-image: url('/public/images/traintobusan.jpg');
-}
-
-.bg-\[url\(\'\/public\/images\/allofus\.jpg\'\)\] {
-  background-image: url('/public/images/allofus.jpg');
-}
-
-.bg-gradient-to-r {
-  background-image: linear-gradient(to right, var(--tw-gradient-stops));
-}
-
-.bg-\[url\(\'\/public\/images\/haikyu\.jpg\'\)\] {
-  background-image: url('/public/images/haikyu.jpg');
-}
-
-.bg-\[url\(\'\/public\/images\/descendants\.jpg\'\)\] {
-  background-image: url('/public/images/descendants.jpg');
-}
-
-.bg-\[url\(\'\/public\/images\/jumanji\.jpg\'\)\] {
-  background-image: url('/public/images/jumanji.jpg');
-}
-
-.bg-\[url\(\'\/public\/images\/kotaro\.jpeg\'\)\] {
-  background-image: url('/public/images/kotaro.jpeg');
-}
-
-.bg-\[url\(\'\/public\/images\/aot\.jpg\'\)\] {
-  background-image: url('/public/images/aot.jpg');
-}
-
-.bg-\[url\(\'\/public\/images\/spiderman\.jpg\'\)\] {
-  background-image: url('/public/images/spiderman.jpg');
-}
-
-.bg-\[url\(\'\/public\/images\/rednotice\.jpg\'\)\] {
-  background-image: url('/public/images/rednotice.jpg');
-}
-
-.bg-\[url\(\'\/public\/images\/wednesday\.jpg\'\)\] {
-  background-image: url('/public/images/wednesday.jpg');
-}
-
-.bg-\[url\(\'\/public\/images\/spyxfamily\.jpeg\'\)\] {
-  background-image: url('/public/images/spyxfamily.jpeg');
-}
-
-.bg-\[url\(\'\/public\/images\/extraordinary\.jpg\'\)\] {
-  background-image: url('/public/images/extraordinary.jpg');
-}
-
-.bg-\[url\(\'\/public\/images\/alchemy\.jpg\'\)\] {
-  background-image: url('/public/images/alchemy.jpg');
-}
-
-.bg-\[url\(\'\/public\/images\/1899\.jpg\'\)\] {
-  background-image: url('/public/images/1899.jpg');
-}
-
-.bg-\[url\(\'\.\.\/public\/images\/home\.jpg\'\)\] {
-  background-image: url('../public/images/home.jpg');
 }
 
 .bg-\[url\(\'\.\.\/public\/images\/moneyheist\.jpg\'\)\] {
@@ -1016,6 +932,10 @@ span {
 
 .bg-\[url\(\'\.\.\/public\/images\/allofus\.jpg\'\)\] {
   background-image: url('../public/images/allofus.jpg');
+}
+
+.bg-gradient-to-r {
+  background-image: linear-gradient(to right, var(--tw-gradient-stops));
 }
 
 .bg-\[url\(\'\.\.\/public\/images\/haikyu\.jpg\'\)\] {

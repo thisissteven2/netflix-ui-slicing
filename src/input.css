@@ -5,22 +5,22 @@
 @layer base {
 	@font-face {
 		font-family: "NetflixSans-Bold";
-		src: url("/public/fonts/NetflixSans-Bold.woff2") format("woff2");
+		src: url("../public/fonts/NetflixSans-Bold.woff2") format("woff2");
 	}
 
 	@font-face {
 		font-family: "NetflixSans-Medium";
-		src: url("/public/fonts/NetflixSans-Medium.woff2") format("woff2");
+		src: url("../public/fonts/NetflixSans-Medium.woff2") format("woff2");
 	}
 
 	@font-face {
 		font-family: "NetflixSans-Regular";
-		src: url("/public/fonts/NetflixSans-Regular.woff2") format("woff2");
+		src: url("../public/fonts/NetflixSans-Regular.woff2") format("woff2");
 	}
 
 	@font-face {
 		font-family: "NetflixSans-Light";
-		src: url("/public/fonts/NetflixSans-Light.woff2") format("woff2");
+		src: url("../public/fonts/NetflixSans-Light.woff2") format("woff2");
 	}
 
 	.font-bold {
